@@ -1,0 +1,110 @@
+>>> python3 nl.py text1.txt
+ 1	string 1
+ 2	string 2
+ 3	string 3
+ 4	string 4
+ 5	string 5
+ 6	string 6
+ 7	string 7
+ 8	string 8
+ 9	string 9
+ 10	string 10
+ 11	string 11
+ 12	string 12
+ 13	string 13
+>>>  python3 nl.py
+ferst
+second
+therd
+ferth
+ 1	ferst
+ 2	second
+ 3	therd
+ 4	ferth
+>>>  HW1 % python3 tail.py text1.txt
+string 4
+string 5
+string 6
+string 7
+string 8
+string 9
+string 10
+string 11
+string 12
+string 13
+
+>>>   python3 tail.py text1.txt text2.txt
+==> text1.txt <==
+string 4
+string 5
+string 6
+string 7
+string 8
+string 9
+string 10
+string 11
+string 12
+string 13
+
+==> text2.txt <==
+line 4
+line 5
+line 6
+line 7
+line 8
+line 9
+line 10
+line 11
+line 12
+line 13
+>>>   python3 tail.py
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+18
+20
+==> stdin <==
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+18
+20
+>>>  python3 wc.py text1.txt
+	13	26	120	text1.txt
+>>>  python3 wc.py text1.txt text2.txt
+	13	26	120	text1.txt
+	13	26	94	text2.txt
+	26	52	214	total
+>>>  python3 wc.py
+ferst
+second
+therd
+forth^D
+	4	4	24
