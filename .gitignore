@@ -4,3 +4,9 @@
 .history/
 .bloop/
 .DS_Store
+*.lock
+*.toml
+*.aux
+*.tar.gz
+*.whl
+venv
