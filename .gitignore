@@ -9,4 +9,5 @@
 *.aux
 *.tar.gz
 *.whl
+*.pyc
 venv
