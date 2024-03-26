@@ -1,0 +1,6 @@
+hash(AB): 104994
+hash(CD): 104994
+hash(A): 1389
+hash(C): 1389
+hash(B): 1050
+hash(D): 1050
