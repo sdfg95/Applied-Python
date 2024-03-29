@@ -1,0 +1,6 @@
+Synchronous execution:
+Average time: 0.0019535064697265626
+Thread execution:
+Average time: 0.019841337203979494
+Process execution:
+Average time: 0.1504619836807251

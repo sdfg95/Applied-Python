@@ -1,0 +1,35 @@
+Results:
+Threaded Results:
+n_jobs: 1, Execution time: 0.14045333862304688
+n_jobs: 2, Execution time: 0.13646793365478516
+n_jobs: 3, Execution time: 0.136519193649292
+n_jobs: 4, Execution time: 0.13757681846618652
+n_jobs: 5, Execution time: 0.14272618293762207
+n_jobs: 6, Execution time: 0.1506671905517578
+n_jobs: 7, Execution time: 0.1414930820465088
+n_jobs: 8, Execution time: 0.1370530128479004
+n_jobs: 9, Execution time: 0.13537287712097168
+n_jobs: 10, Execution time: 0.13637614250183105
+n_jobs: 11, Execution time: 0.13977599143981934
+n_jobs: 12, Execution time: 0.1426219940185547
+n_jobs: 13, Execution time: 0.1382298469543457
+n_jobs: 14, Execution time: 0.1486189365386963
+n_jobs: 15, Execution time: 0.1418142318725586
+n_jobs: 16, Execution time: 0.1463179588317871
+Process Results:
+n_jobs: 1, Execution time: 0.7349307537078857
+n_jobs: 2, Execution time: 0.7247519493103027
+n_jobs: 3, Execution time: 0.7570827007293701
+n_jobs: 4, Execution time: 0.784433126449585
+n_jobs: 5, Execution time: 0.7975640296936035
+n_jobs: 6, Execution time: 0.8162379264831543
+n_jobs: 7, Execution time: 0.8381288051605225
+n_jobs: 8, Execution time: 0.8562722206115723
+n_jobs: 9, Execution time: 0.8742241859436035
+n_jobs: 10, Execution time: 0.9031469821929932
+n_jobs: 11, Execution time: 0.9233410358428955
+n_jobs: 12, Execution time: 1.1875698566436768
+n_jobs: 13, Execution time: 0.9685978889465332
+n_jobs: 14, Execution time: 0.9689288139343262
+n_jobs: 15, Execution time: 0.9841461181640625
+n_jobs: 16, Execution time: 1.0132348537445068

@@ -1,0 +1,13 @@
+[2024-03-29 20:51:55.364531] User input: ASSDDD
+[2024-03-29 20:51:57.513123] User input: asdasd
+[2024-03-29 20:51:55.369576] Encoded message from process B: nffqqq
+[2024-03-29 20:51:59.874201] User input: ASDAFD
+[2024-03-29 20:52:01.267272] User input: ASDAFD
+[2024-03-29 20:52:00.376331] Encoded message from process B: nfqnfq
+[2024-03-29 20:52:03.223426] User input: AFDSFSDC
+[2024-03-29 20:52:06.418432] User input: XCXDFDEASD
+[2024-03-29 20:52:05.378323] Encoded message from process B: nfqnsq
+[2024-03-29 20:52:08.548614] User input: ASDFDXC
+[2024-03-29 20:52:10.554302] User input: ASDAFCXAS
+[2024-03-29 20:52:10.383639] Encoded message from process B: nfqnsq
+[2024-03-29 20:52:13.997119] User input: STOP
