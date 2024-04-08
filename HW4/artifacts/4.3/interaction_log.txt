@@ -1,13 +1,17 @@
-[2024-03-29 20:51:55.364531] User input: ASSDDD
-[2024-03-29 20:51:57.513123] User input: asdasd
-[2024-03-29 20:51:55.369576] Encoded message from process B: nffqqq
-[2024-03-29 20:51:59.874201] User input: ASDAFD
-[2024-03-29 20:52:01.267272] User input: ASDAFD
-[2024-03-29 20:52:00.376331] Encoded message from process B: nfqnfq
-[2024-03-29 20:52:03.223426] User input: AFDSFSDC
-[2024-03-29 20:52:06.418432] User input: XCXDFDEASD
-[2024-03-29 20:52:05.378323] Encoded message from process B: nfqnsq
-[2024-03-29 20:52:08.548614] User input: ASDFDXC
-[2024-03-29 20:52:10.554302] User input: ASDAFCXAS
-[2024-03-29 20:52:10.383639] Encoded message from process B: nfqnsq
-[2024-03-29 20:52:13.997119] User input: STOP
+[2024-04-08 15:25:45.138983] Message from process A: First
+[2024-04-08 15:25:45.140117] Encoded message from process B: svefg
+[2024-04-08 15:25:48.766927] Message from process A: Second
+[2024-04-08 15:25:50.144500] Encoded message from process B: frpbaq
+[2024-04-08 15:25:50.548269] Message from process A: a
+[2024-04-08 15:25:51.745200] Message from process A: asdas
+[2024-04-08 15:25:52.755510] Message from process A: asd
+[2024-04-08 15:25:54.643969] Message from process A: sdafsdfdfsa
+[2024-04-08 15:25:55.145975] Encoded message from process B: n
+[2024-04-08 15:25:56.497782] Message from process A: asddsaasddas
+[2024-04-08 15:25:58.592557] Message from process A: asdasd
+[2024-04-08 15:26:00.147388] Encoded message from process B: nfqnf
+[2024-04-08 15:26:05.151192] Encoded message from process B: nfq
+[2024-04-08 15:26:10.153282] Encoded message from process B: fqnsfqsqsfn
+[2024-04-08 15:26:15.156694] Encoded message from process B: nfqqfnnfqqnf
+[2024-04-08 15:26:20.158710] Encoded message from process B: nfqnfq
+[2024-04-08 15:26:23.577249] Message from process A: STOP

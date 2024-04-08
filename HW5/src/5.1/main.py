@@ -25,7 +25,7 @@ async def main(num_images, output_dir):
 
 
 if __name__ == "__main__":
-    num_images = 5
+    num_images = 15
     output_directory = "../../artifacts/5.1"
 
     if not os.path.exists(output_directory):
